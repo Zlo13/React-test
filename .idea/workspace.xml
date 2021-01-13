@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2905742e-1fb2-4dfd-996e-717e19e9261c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/todos/Todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todos/TodosItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todos/TodosList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todos/todos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todos/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/Todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todos/TodosItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/TodosItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todos/TodosList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/TodosList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todos/todos.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todos/todos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1mA0ky3EViu2SegcQXz9Pp9krnr" />
   <component name="ProjectViewState">
@@ -54,6 +62,8 @@
       <workItem from="1610047307494" duration="29000" />
       <workItem from="1610047379749" duration="2896000" />
       <workItem from="1610391790518" duration="2117000" />
+      <workItem from="1610393940654" duration="9709000" />
+      <workItem from="1610563620308" duration="4328000" />
     </task>
     <servers />
   </component>

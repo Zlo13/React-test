@@ -23,7 +23,7 @@
     color: #797979;
 }
 .todos__checkbox{
-    margin-right: 10px;
+    margin: 0 10px 0 0;
     cursor: pointer;
 }
 .todos__close{
@@ -33,4 +33,25 @@
     padding: 0;
     font-size: 24px;
     cursor: pointer;
+}
+.todos__input{
+    color: #ffffff;
+    margin: 0 0 20px 0;
+    width: calc(100% - 10px);
+    border: none;
+    background-color: #1f5b5b;
+    padding: 5px;
+}
+.todos__input::placeholder{
+    color: #797979;
+}
+.todos__message{
+    font-weight: normal;
+    color: rgba(255, 255, 255, 0);
+    transition: 600ms;
+}
+.todos__message_show{
+    font-weight: normal;
+    color: rgba(255, 255, 255, 1);
+    transition: 600ms;
 }

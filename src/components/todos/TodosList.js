@@ -7,7 +7,7 @@ export default function TodosList ({todos}) {
     <ul className = 'todos__list'>
       { todos.map(todo =>
             <TodosItem
-              key = {todos.id}
+              key = {todo.id + Math.random()}
               id = {todo.id}
               title = {todo.title}
               completed = {todo.completed}
